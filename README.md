@@ -1,7 +1,9 @@
 # Data Envelopment Analysis with GAMS
 
 course: Convex Optimization
+
 University: Kharazmi
+
 Professor: Dehnokhalaji
 
 The problem is defined in readme.txt file.
