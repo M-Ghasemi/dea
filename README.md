@@ -1,10 +1,10 @@
 # Data Envelopment Analysis with GAMS
 
 course: Convex Optimization
-
 University: Kharazmi
-
 Professor: Dehnokhalaji
+
+The problem is defined in readme.txt file.
 
 Models:
 * **Envelopment CCR (output oriented)**
@@ -14,4 +14,6 @@ Models:
 * **Envelopment CCR (input oriented)**
 * **Multiplier BCC (input oriented)**
 
-* **[Mohammad Sadegh Ghasemi](https://www.linkedin.com/in/mohammad-sadegh-ghasemi-40)**
+Read the Solution-Guide.pdf for more information about the Models.
+
+**[Mohammad Sadegh Ghasemi](https://www.linkedin.com/in/mohammad-sadegh-ghasemi-40)**
